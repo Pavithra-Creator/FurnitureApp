@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 521e9effca6753e42adbc2586892acaf
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d6f3713ac263a7f4089596ac228eccc0
+  - enabled: 1
+    path: Assets/Scenes/Chair/Chair.unity
+    guid: eefc2e7165aee3a4baa83b9ee2c3a828
+  - enabled: 1
+    path: Assets/Scenes/bed/bed1.unity
+    guid: 8637ad6e2952d3d4d9dfa7a344df69f4
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa.unity
+    guid: 2d6ec2524ffa1494d898b45557425700
+  - enabled: 1
+    path: Assets/Scenes/bed/bedselection.unity
+    guid: d83cec7f6498bc64681585258b82621f
+  - enabled: 1
+    path: Assets/Scenes/Chair/chairselection.unity
+    guid: bb30fab6c9330de4b9da2f64d4eac9dd
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofaselection.unity
+    guid: ddb7a562976193041be550176c3d9ff6
+  - enabled: 1
+    path: Assets/Scenes/bed/bed2.unity
+    guid: 64b6aeca1ac9a3b47b8f7cda7788ae63
+  - enabled: 1
+    path: Assets/Scenes/bed/bed3.unity
+    guid: 2835a6b72856982458d9e8603f83b886
+  - enabled: 1
+    path: Assets/Scenes/Chair/Chair1.unity
+    guid: 3c638ddc428339e489817a094b0085bd
+  - enabled: 1
+    path: Assets/Scenes/Chair/Chair2.unity
+    guid: 9bcc288ffc72ca54ea3acd35b1af8866
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa1.unity
+    guid: a4c60551710789a489be3a40eb810fe0
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa2.unity
+    guid: 708bdbb3286b43542bde27cf71ddca0b
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa1360.unity
+    guid: e61c672f6e3518b449feecd28cbb51a6
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa2360.unity
+    guid: 298733da143d5e748a00dc9f78badd4c
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa3360.unity
+    guid: 0f5bf4021cfa3364a8b7474ca590eb05
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa1details.unity
+    guid: 6567e7d0cfa6a094db6a23fe1c0728b2
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa2details.unity
+    guid: 0f3cd50193c291f46a13dd26b581b299
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofa3details.unity
+    guid: 868955283c145d049b7f5c6e8d90739c
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofaMenu1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofaMenu2.unity
+    guid: 1faec9acbdf4ad24abe070635817a396
+  - enabled: 1
+    path: Assets/Scenes/sofa/sofaMenu3.unity
+    guid: e8351c5a52a68bd4fafbc7bc347126ca
+  - enabled: 1
+    path: Assets/Scenes/Chair/chairdetails1.unity
+    guid: dce6487b28bfd82479300ac94c845e83
+  - enabled: 1
+    path: Assets/Scenes/Chair/chairdetails2.unity
+    guid: adcdb496a933bca4d9b85de9e94b1ec4
+  - enabled: 1
+    path: Assets/Scenes/Chair/chairdetails3.unity
+    guid: 46970505e40501a4fbcba643788cb786
+  - enabled: 1
+    path: Assets/Scenes/Chair/ChairMenu1.unity
+    guid: 1e270b0b5943df9428d739dd42d175aa
+  - enabled: 1
+    path: Assets/Scenes/Chair/ChairMenu2.unity
+    guid: 2e1b31267f5559e479e98962ab3c4a91
+  - enabled: 1
+    path: Assets/Scenes/Chair/ChairMenu3.unity
+    guid: 3d682ce839044924aa808971cceac739
+  - enabled: 1
+    path: Assets/Scenes/Chair/Chair1360.unity
+    guid: d9f87a695fe90c14581ed162dc32b8c3
+  - enabled: 1
+    path: Assets/Scenes/Chair/Chair2360.unity
+    guid: 5f629f5fa5392524f92c9678d6813661
+  - enabled: 1
+    path: Assets/Scenes/Chair/Chair3360.unity
+    guid: c81da1b502e55bf47b5da651187655f0
+  - enabled: 1
+    path: Assets/Scenes/bed/Bed1360.unity
+    guid: 308bb67d1a8ee1d4bb7fd0a2e3da44ee
+  - enabled: 1
+    path: Assets/Scenes/bed/Bed2360.unity
+    guid: ef05f467869b805419c88fba5fc9a48c
+  - enabled: 1
+    path: Assets/Scenes/bed/Bed3360.unity
+    guid: e7b58cfaa8876a643983232ffc10d63c
+  - enabled: 1
+    path: Assets/Scenes/bed/beddetails1.unity
+    guid: e5693881b8331134382a7d9e0d37593c
+  - enabled: 1
+    path: Assets/Scenes/bed/beddetails2.unity
+    guid: 1e0098667e597a64ca2edca10bd18362
+  - enabled: 1
+    path: Assets/Scenes/bed/beddetails3.unity
+    guid: 8fe2d65ea64d8df448f421aaabe628da
+  - enabled: 1
+    path: Assets/Scenes/bed/BedMenu1.unity
+    guid: 25d81ca60e0cf8b41944d05148c7c6f7
+  - enabled: 1
+    path: Assets/Scenes/bed/BedMenu2.unity
+    guid: 54b5b87bd8629fb499a5608811dde1e6
+  - enabled: 1
+    path: Assets/Scenes/bed/BedMenu3.unity
+    guid: 5b5e54a21725dc643b1030982bce3f99
+  m_configObjects: {}

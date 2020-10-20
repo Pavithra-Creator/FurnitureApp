@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/bed/bed3.unity
+  isLoaded: 1
+  isActive: 1

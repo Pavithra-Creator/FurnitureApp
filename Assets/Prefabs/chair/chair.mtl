@@ -1,0 +1,14 @@
+# Blender MTL File: 'chair.blend'
+# Material Count: 1
+
+newmtl 10239_Office_Chair_v1
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\pavithra\Desktop\Office_Chair_v1_L3.123cf4a20c81-89b5-417b-848a-24ea67f9fb6b\10239_Office_Chair_v1_Diffuse.jpg
+map_Ka C:\\Users\\pavithra\\Desktop\\Office_Chair_v1_L3.123cf4a20c81-89b5-417b-848a-24ea67f9fb6b\\10239_Office_Chair_v1_Diffuse.jpg
